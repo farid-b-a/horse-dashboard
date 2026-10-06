@@ -1,16 +1,16 @@
-# 🐎 Horse Dashboard
+#  Horse Dashboard
 
 A modern horse management dashboard built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
 
 This project aims to provide breeders, horse owners, and equestrian organizations with a clean, fast, and user-friendly platform for managing horse-related information.
 
-> 🚧 **Work in Progress**
+>  **Work in Progress**
 >
 > This project is actively under development, and new features are continuously being added.
 
 ---
 
-# ✨ Current Features
+#  Current Features
 
 - Modern Dashboard UI
 - Horse Breeds Page
@@ -21,7 +21,7 @@ This project aims to provide breeders, horse owners, and equestrian organization
 
 ---
 
-# 🚀 Roadmap
+#  Roadmap
 
 - Horse Profiles
 - Pedigree (Family Tree)
@@ -35,7 +35,7 @@ This project aims to provide breeders, horse owners, and equestrian organization
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 - Next.js
 - React
@@ -47,7 +47,7 @@ This project aims to provide breeders, horse owners, and equestrian organization
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```text
 src/
@@ -63,7 +63,7 @@ src/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 Clone the repository
 
@@ -85,7 +85,7 @@ npm run dev
 
 ---
 
-# 🎯 Project Goals
+#  Project Goals
 
 - Build a scalable dashboard application
 - Follow clean architecture principles
@@ -95,19 +95,19 @@ npm run dev
 
 ---
 
-# 📈 Development Status
+#  Development Status
 
-- ✅ Home Dashboard
-- ✅ Horse Breeds
-- 🚧 Horse Profiles
-- 🚧 Authentication
-- 🚧 REST API Integration
-- 🚧 Statistics Dashboard
-- 🚧 Pedigree System
+-  Home Dashboard
+-  Horse Breeds
+-  Horse Profiles
+-  Authentication
+-  REST API Integration
+-  Statistics Dashboard
+-  Pedigree System
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions, suggestions, and feedback are welcome.
 
@@ -115,7 +115,7 @@ If you'd like to improve this project, feel free to open an issue or submit a pu
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Farid Bakhtiari**
 
